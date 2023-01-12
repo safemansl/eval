@@ -1,3 +1,3 @@
 function MyFunctionTest() {
-    console.log("здарова бандит");
+    console.log("Р·РґР°СЂРѕРІР° Р±Р°РЅРґРёС‚, Р·Р°Р№Р±Р°Р»");
 }
